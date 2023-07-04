@@ -19,6 +19,7 @@ namespace RedisExampleApp.API.Models
                 new Product() { Id = 2, Name = "Kalem 2", Price = 20 },
                 new Product() { Id = 3, Name = "Kalem 3", Price = 25 }
                 );
+
         }
 
 
